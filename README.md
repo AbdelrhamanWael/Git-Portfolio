@@ -1,1 +1,107 @@
-# Git-Portfolio
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-02-11T17:50:31.085Z",
+  "profile": {
+    "title": "Abdelrahman Wael",
+    "subtitle": "An experienced Html developer",
+    "currentWork": "Integrating Deep Learning models into scalable .NET & React web applications",
+    "currentLearn": "Advanced Neural Networks, PyTorch, and complex Machine Learning architectures.",
+    "collaborateOn": "I am open to collaborating on open-source .NET and React projects.",
+    "helpWith": "Open-source .NET Core projects and advanced system design patterns.",
+    "ama": "React.js, .NET Core, Machine Learning models, and building RESTful APIs",
+    "contact": "abdelrhamanwael8@gmail.com",
+    "funFact": " I spend my day switching between C# code, Python AI models, and practicing Chinese calligraphy.",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://my-portfolio-empv7e26a-abdelrahman-wael-s-projects.vercel.app",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1uVvrm2vTRNCF69aiLiEKkpcwHMJUxwb2/view?usp=drive_link"
+  },
+  "social": {
+    "github": "AbdelrhamanWael",
+    "dev": "",
+    "linkedin": "www.linkedin.com/in/abdelrhaman-wael-mohammed-790171366",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "bootstrap",
+    "csharp",
+    "css3",
+    "dotnet",
+    "figma",
+    "firebase",
+    "git",
+    "html5",
+    "javascript",
+    "jupyter",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "postman",
+    "python",
+    "react",
+    "redux",
+    "scikit_learn",
+    "seaborn",
+    "streamlit",
+    "tailwind"
+  ]
+}
